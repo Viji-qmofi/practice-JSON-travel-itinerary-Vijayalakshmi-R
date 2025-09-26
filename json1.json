@@ -1,0 +1,42 @@
+{
+  "tripName": "Romantic Destinations 2026",
+  "traveler": {
+    "name": "Vijayalakshmi Ramu",
+    "contact": {
+      "email": "viji.ramu@gmail.com",
+      "phone": "+1-555-678-1234"
+    }
+  },
+  "destinations": [
+    {
+      "location": "Paris",
+      "arrivalDate": "2026-06-10",
+      "departureDate": "2026-06-15",
+      "activities": [
+        {
+          "title": "Eiffel Tower Visit",
+          "time": "10:00 AM"
+        },
+        {
+          "title": "Seine River Cruise",
+          "time": "6:00 PM"
+        }
+      ]
+    },
+    {
+      "location": "Rome",
+      "arrivalDate": "2026-06-16",
+      "departureDate": "2026-06-22",
+      "activities": [
+        {
+          "title": "Angels and Demons Tour",
+          "time": "9:30 AM"
+        },
+        {
+          "title": "Vatican Museums",
+          "time": "2:00 PM"
+        }
+      ]
+    }
+  ]
+}
