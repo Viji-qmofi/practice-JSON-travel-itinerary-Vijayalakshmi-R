@@ -1,0 +1,69 @@
+{
+  "tripName": "Romantic Destinations 2026",
+  "traveler": {
+    "name": "Vijayalakshmi Ramu",
+    "contact": {
+      "email": "alex.johnson@example.com",
+      "phone": "+1-555-678-1234"
+    }
+  },
+  "destinations": [
+    {
+      "location": "Paris",
+      "arrivalDate": "2026-06-10",
+      "departureDate": "2026-06-15",
+      "transportation": {
+        "mode": "Flight",
+        "cost": 250.00
+      },
+      "activities": [
+        {
+          "title": "Eiffel Tower Visit",
+          "time": "10:00 AM"
+        },
+        {
+          "title": "Seine River Cruise",
+          "time": "6:00 PM"
+        }
+      ]
+    },
+    {
+      "location": "Rome",
+      "arrivalDate": "2026-06-16",
+      "departureDate": "2026-06-22",
+      "transportation": {
+        "mode": "Train",
+        "cost": 120.00
+      },
+      "activities": [
+        {
+          "title": "Colosseum Tour",
+          "time": "9:30 AM"
+        },
+        {
+          "title": "Vatican Museums",
+          "time": "2:00 PM"
+        }
+      ]
+    },
+    {
+      "location": "Barcelona",
+      "arrivalDate": "2026-06-23",
+      "departureDate": "2026-06-28",
+      "transportation": {
+        "mode": "Flight",
+        "cost": 180.00
+      },
+      "activities": [
+        {
+          "title": "Sagrada Familia Tour",
+          "time": "11:00 AM"
+        },
+        {
+          "title": "Beach Day at Barceloneta",
+          "time": "3:00 PM"
+        }
+      ]
+    }
+  ]
+}
